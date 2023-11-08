@@ -1,0 +1,48 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'11'
+-sourcepath
+'C:/Users/joe.clack/OneDrive - MHT Technology Ltd/Desktop/ItineraryManager/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/joe.clack/OneDrive - MHT Technology Ltd/Desktop/ItineraryManager/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ItineraryManager 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' 'C:/Users/joe.clack/OneDrive - MHT Technology Ltd/Desktop/ItineraryManager/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ItineraryManager 1.0-SNAPSHOT API'
+b0123456.phase_1
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\src\main\java = 1698134984602
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\allclasses-index.html = 1698157383985
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\allclasses.html = 1698157384003
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\allpackages-index.html = 1698157383993
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\constant-values.html = 1698157383920
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\deprecated-list.html = 1698157383993
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\element-list = 1698157383904
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\help-doc.html = 1698157384007
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\index-all.html = 1698157383982
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\index.html = 1698157384005
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\jquery-ui.overrides.css = 1698157384044
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\member-search-index.js = 1698157383981
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\member-search-index.zip = 1698157383982
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\overview-tree.html = 1698157383947
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\package-search-index.js = 1698157383959
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\package-search-index.zip = 1698157383975
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\script.js = 1698157384007
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\search.js = 1698157384021
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\stylesheet.css = 1698157384007
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\type-search-index.js = 1698157383975
+C:\Users\joe.clack\OneDrive - MHT Technology Ltd\Desktop\ItineraryManager\target\site\apidocs\type-search-index.zip = 1698157383975
